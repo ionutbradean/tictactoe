@@ -1,2 +1,0 @@
-# tictactoe
-Aleo ttt
